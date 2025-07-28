@@ -32,7 +32,7 @@ export default function Navbar() {
               </div>
               <div className="flex flex-1 items-center justify-between sm:items-stretch">
                 <div className="flex flex-shrink-0 items-center justify-center w-full sm:w-auto">
-                  <img src="../assets/logo2.png" alt="Your Company" className="h-8 w-auto" />
+                  <img src="../assets/logo.jp" alt="Your Company" className="h-8 w-auto" />
                 </div>
                 <div className="hidden sm:flex sm:justify-center flex-grow">
                   <div className="flex space-x-8">
